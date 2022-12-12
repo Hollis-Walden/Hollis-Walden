@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hollis-Walden, a recent graduate and front-end web developer specializing in JavaScript, HTML, and CSS.
-- 👀 I’m interested in building accessible websites and applications that people enjoy interacting with!
+- 👀 I’m interested in building accessible websites and applications that people enjoy interacting with.
 - 🌱 I’m currently learning React.js and TypeScript
 - 💞️ Working on new things with new people is one of the best ways to grow, so I’m looking to collaborate on coding and design projects. 
 - 📫 Reach me on Linkedin www.linkedin.com/in/hollis-walden-826b7a251
